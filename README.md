@@ -15,8 +15,8 @@
 
 ## Training Data
 
-   - 80% of data in the dataset this work collected.
+   - 70% of data in the dataset this work collected.
 
 ## Testing Date
 
-   - 20% of data in the dataset this work collected.
+   - 30% of data in the dataset this work collected.
